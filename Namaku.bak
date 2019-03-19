@@ -1,0 +1,12 @@
+#inlude<conio.h>
+#inlude<iostream.h>
+void main()
+{
+clrscr()
+cout<<"nnnnnnnn  ";cout<<"ii   ";cout<<"ssssss      ";cout<<"aaaaaaaaaaaa"<<endl;
+cout<<"nn    nn  ";cout<<"ii   ";cout<<"s           ";cout<<"a         a"<<endl;
+cout<<"nn    nn  ";cout<<"ii   ";cout<<"ssssss      ";cout<<"aaaaaaaaaaa"<<endl;
+cout<<"nn    nn  ";cout<<"ii   ";cout<<     "s      ";cout<<"a         a"<<endl;
+cout<<"nn    nn  ";cout<<"ii   ";cout<<"ssssss      ";cout<<"a         a"<<endl;
+getch()
+}
